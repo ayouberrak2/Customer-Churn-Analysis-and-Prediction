@@ -1,0 +1,9 @@
+Model,Precision,Recall,F1-score,ROC-AUC,TN,FP,FN,TP
+Logistic Regression,0.509,0.783,0.617,0.755,752,283,81,293
+Logistic Regression opt,0.512,0.794,0.623,0.76,752,283,77,297
+Random Foreast,0.571,0.58,0.576,0.711,872,163,157,297
+Random Foreast opt,0.512,0.794,0.623,0.76,752,283,77,297
+Decision three,0.496,0.561,0.527,0.678,822,213,164,210
+Decision three opt,0.507,0.639,0.566,0.763,803,232,135,239
+Xgboost,0.59,0.615,0.602,0.73,875,160,144,230
+Xgboost opt,0.555,0.666,0.605,0.736,835,200,125,249
